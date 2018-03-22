@@ -14,4 +14,5 @@
     <depend>robotiq_controllers</depend>
     <depend>roman_client_ros_utils</depend>
     <depend>roscpp</depend>
+    <depend>sensor_msgs</depend>
 </package>
